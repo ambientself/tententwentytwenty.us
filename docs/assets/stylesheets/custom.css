@@ -1,0 +1,6 @@
+body {
+    background-image: url('/assets/images/wedding-table.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

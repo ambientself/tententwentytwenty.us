@@ -1,12 +1,14 @@
-site_name: Simple Site
+site_name: TenTenTwentyTwenty
 site_url: https://tententwentytwenty.us
-site_description: A simple site for tententwentytwenty
+site_description: tententwentytwenty.us
 theme:
   name: material
   palette:
     primary: light blue
     accent: orange
     scheme: slate
+extra_css:
+  - assets/stylesheets/custom.css
 plugins:
   - search
   - tags
